@@ -6,7 +6,8 @@ body{
 }
 
 .content{
-	padding: 10px 3px 10px 3px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	border: 10px solid #17A2B8;
 	font-weight: 100;
 }
@@ -16,5 +17,14 @@ body{
 }
 
 div h1{
-	font-weight: 700;
+	font-weight: 500;
+	font-size: 30px;
+}
+
+.lead{
+	font-size: 20px;
+}
+
+.display-1{
+	font-size: 60px;
 }
