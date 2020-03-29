@@ -45,6 +45,7 @@ div h1{
 	#contact{
 		padding-left: 10px;
 		padding-right: 10px;
+		padding-top: 5px;
 		font-size: 20px;
 	}
 	#copyright{
@@ -54,6 +55,9 @@ div h1{
 	}
 	body{
 		padding-bottom: 0px;
+	}
+	hr{
+		margin: 0px;
 	}
 
 }
